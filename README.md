@@ -386,7 +386,7 @@ This project demonstrates:
 
 ## 👤 Author
 
-[Sharif Shaikh]
+Sharif Shaikh
 Backend Developer Intern Candidate
 
 ## 📄 License
