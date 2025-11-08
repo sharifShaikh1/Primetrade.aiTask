@@ -127,6 +127,7 @@ JWT_EXPIRE=7d
 # Redis - UPDATE WITH YOUR REMOTE URL
 REDIS_URL=redis://your-redis-url:6379
 REDIS_PASSWORD=your_redis_password
+#optional if you dont have any password and only url by default use that url already contains the credentials
 
 # CORS
 ALLOWED_ORIGINS=http://localhost:3000
@@ -370,7 +371,7 @@ This project demonstrates:
 
 ## 📧 Submission
 
-**Submit to**: 
+**Submitted to**: 
 - saami@bajarangs.com
 - nagasai@bajarangs.com
 - chetan@bajarangs.com
@@ -385,7 +386,7 @@ This project demonstrates:
 
 ## 👤 Author
 
-[Your Name]
+[Sharif Shaikh]
 Backend Developer Intern Candidate
 
 ## 📄 License
